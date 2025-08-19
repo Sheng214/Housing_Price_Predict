@@ -21,3 +21,9 @@ models/
 *.parquet
 *.pkl
 *.h5
+.ipynb_checkpoints/
+__pycache__/
+data/
+outputs/
+*.zip
+*.csv
